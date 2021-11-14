@@ -1,0 +1,109 @@
+
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+ds/LatticeBoltzmannDemo/LatticeBoltzmannDemo.py
+[[False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]
+ [False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False False False False False False False False False False False
+  False False]]
+PS C:\Users\aziub\Downloads\LatticeBoltzmannDemo>
+
